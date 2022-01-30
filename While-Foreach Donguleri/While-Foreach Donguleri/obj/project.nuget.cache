@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/YFNgJnVbUbFgmBz/X4njvXAQOwGbuv6ZHsBFRQkiiNO1rGRfbFTlrCZu9Q6sB3MDKnulC2iQWy0emSmcW7xUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\veyse\\OneDrive\\Masaüstü\\C# PROJELERİ\\While-Foreach Donguleri\\While-Foreach Donguleri\\While-Foreach Donguleri.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\veyse\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\While-Foreach Donguleri\While-Foreach Donguleri\bin\Debug\net5.0\While-Foreach Donguleri.exe
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\While-Foreach Donguleri\While-Foreach Donguleri\bin\Debug\net5.0\While-Foreach Donguleri.deps.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\While-Foreach Donguleri\While-Foreach Donguleri\bin\Debug\net5.0\While-Foreach Donguleri.runtimeconfig.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\While-Foreach Donguleri\While-Foreach Donguleri\bin\Debug\net5.0\While-Foreach Donguleri.runtimeconfig.dev.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\While-Foreach Donguleri\While-Foreach Donguleri\bin\Debug\net5.0\While-Foreach Donguleri.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\While-Foreach Donguleri\While-Foreach Donguleri\bin\Debug\net5.0\ref\While-Foreach Donguleri.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\While-Foreach Donguleri\While-Foreach Donguleri\bin\Debug\net5.0\While-Foreach Donguleri.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\While-Foreach Donguleri\While-Foreach Donguleri\obj\Debug\net5.0\While-Foreach Donguleri.csproj.AssemblyReference.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\While-Foreach Donguleri\While-Foreach Donguleri\obj\Debug\net5.0\While-Foreach Donguleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\While-Foreach Donguleri\While-Foreach Donguleri\obj\Debug\net5.0\While-Foreach Donguleri.AssemblyInfoInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\While-Foreach Donguleri\While-Foreach Donguleri\obj\Debug\net5.0\While-Foreach Donguleri.AssemblyInfo.cs
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\While-Foreach Donguleri\While-Foreach Donguleri\obj\Debug\net5.0\While-Foreach Donguleri.csproj.CoreCompileInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\While-Foreach Donguleri\While-Foreach Donguleri\obj\Debug\net5.0\While-Foreach Donguleri.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\While-Foreach Donguleri\While-Foreach Donguleri\obj\Debug\net5.0\ref\While-Foreach Donguleri.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\While-Foreach Donguleri\While-Foreach Donguleri\obj\Debug\net5.0\While-Foreach Donguleri.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\While-Foreach Donguleri\While-Foreach Donguleri\obj\Debug\net5.0\While-Foreach Donguleri.genruntimeconfig.cache
